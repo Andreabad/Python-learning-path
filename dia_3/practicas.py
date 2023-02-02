@@ -13,8 +13,11 @@
 # print(mi_dict["puntos"]['points2'][1])
 # print(dic['c2'][1])
 
-mi_dic = {"nombre":"Karen", "apellido":"Jurgens", "edad":35, "ocupacion":"Periodista"}
-mi_dic["edad"] = 36
-mi_dic["ocupacion"] = "Editora"
-mi_dic["pais"] = "Colombia"
-print(mi_dic)
+# mi_dic = {"nombre":"Karen", "apellido":"Jurgens", "edad":35, "ocupacion":"Periodista"}
+# mi_dic["edad"] = 36
+# mi_dic["ocupacion"] = "Editora"
+# mi_dic["pais"] = "Colombia"
+# print(mi_dic)
+
+numero = 25**0.5 == 25
+print(numero)
